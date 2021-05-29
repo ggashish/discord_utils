@@ -1,2 +1,2 @@
 from . import client, exceptions
-from .client import MyClient
+from .paginator import EntriesPaginator
