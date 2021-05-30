@@ -1,1 +1,1 @@
-from .paginator import EntriesPaginator
+from . import Paginator
